@@ -43,13 +43,13 @@
 ## 📝 논문 & 특허
 
 <details>
-<summary>📄 <b>MindRoad: 마인드맵 중심 실시간 회의 시각화 모델 설계 및 구현</b> - [2025] - [한국인터넷정보학회 추계학술발표대회] - <a href="assets/MindRoad 마인드맵 중심 실시간 회의 시각화 모델 설계 및 구현(최종본).hwp">[논문]</a></summary>
+<summary>📄 <b>MindRoad: 마인드맵 중심 실시간 회의 시각화 모델 설계 및 구현</b> - [2025] - [한국인터넷정보학회 추계학술발표대회] - <a href="https://github.com/SunjunSS/SunjunSS/raw/main/assets/MindRoad%20마인드맵%20중심%20실시간%20회의%20시각화%20모델%20설계%20및%20구현(최종본).hwp" download>[논문]</a></summary>
 <br>
 <img src="assets/학술대회 참가 확인증_사진.png" alt="학술대회 참가 확인증" width="300"/>
 </details>
 
 <details>
-<summary>🔬 <b>마인드맵 기반의 실시간 회의 시각화 장치 및 방법</b> - [2025.12.01] - [출원번호: 10-2025-0186626] - <a href="assets/P25-14_10-2025-0186626_한성대_출원번호통지서(원본).pdf">[출원번호통지서]</a></summary>
+<summary>🔬 <b>마인드맵 기반의 실시간 회의 시각화 장치 및 방법</b> - [2025.12.01] - [출원번호: 10-2025-0186626] - <a href="https://github.com/SunjunSS/SunjunSS/raw/main/assets/P25-14_10-2025-0186626_한성대_출원번호통지서(원본).pdf" download>[출원번호통지서]</a></summary>
 <br>
 <img src="assets/출원번호통지서_사진.png" alt="특허 출원번호통지서" width="350"/>
 </details>
