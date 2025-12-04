@@ -43,7 +43,7 @@
 ## 📝 논문 & 특허
 
 <details>
-<summary>📄 <b>MindRoad: 마인드맵 중심 실시간 회의 시각화 모델 설계 및 구현</b> - [2025] - [한국인터넷정보학회 추계학술발표대회] - <a href="assets/MindRoad 마인드맵 중심 실시간 회의 시각화 모델 설계 및 구현(최종본).  hwp">[논문]</a></summary>
+<summary>📄 <b>MindRoad: 마인드맵 중심 실시간 회의 시각화 모델 설계 및 구현</b> - [2025] - [한국인터넷정보학회 추계학술발표대회] - <a href="assets/MindRoad 마인드맵 중심 실시간 회의 시각화 모델 설계 및 구현(최종본).hwp">[논문]</a></summary>
 <br>
 <img src="assets/학술대회 참가 확인증_사진.png" alt="학술대회 참가 확인증" width="300"/>
 </details>
