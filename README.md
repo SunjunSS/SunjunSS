@@ -43,12 +43,16 @@
 ## 📝 논문 & 특허
 
 <details>
-<summary>📄 <b>MindRoad: 마인드맵 중심 실시간 회의 시각화 모델 설계 및 구현</b> - [2025] - [한국인터넷정보학회 추계학술발표대회]</summary>
+<summary>📄 <b>MindRoad: 마인드맵 중심 실시간 회의 시각화 모델 설계 및 구현</b> - [2025] - [한국인터넷정보학회 추계학술발표대회] - <a href="assets/MindRoad 마인드맵 중심 실시간 회의 시각화 모델 설계 및 구현(최종본).  hwp">[논문]</a></summary>
 <br>
 <img src="assets/학술대회 참가 확인증_사진.png" alt="학술대회 참가 확인증" width="300"/>
 </details>
 
-- 🔬 **[마인드맵 기반의 실시간 회의 시각화 장치 및 방법]** - [2025. 12.01] - [출원번호: 10-2025-0186626]
+<details>
+<summary>🔬 <b>마인드맵 기반의 실시간 회의 시각화 장치 및 방법</b> - [2025.12.01] - [출원번호: 10-2025-0186626] - <a href="assets/P25-14_10-2025-0186626_한성대_출원번호통지서(원본).pdf">[출원번호통지서]</a></summary>
+<br>
+<img src="assets/출원번호통지서_사진.png" alt="특허 출원번호통지서" width="350"/>
+</details>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
