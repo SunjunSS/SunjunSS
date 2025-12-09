@@ -49,7 +49,7 @@
 </details>
 
 <details>
-<summary>🔬 <b>마인드맵 기반의 실시간 회의 시각화 장치 및 방법</b> - [2025.12.01] - [출원번호: 10-2025-0186626] - <a href="https://github.com/SunjunSS/SunjunSS/raw/main/assets/P25-14_10-2025-0186626_한성대_출원번호통지서(원본).pdf" download>[출원번호통지서]</a></summary>
+<summary>🔬 <b>마인드맵 기반의 실시간 회의 시각화 장치 및 방법</b> - [2025.12.01] - [출원번호: 10-2025-0186626] - <a href="https://github.com/SunjunSS/SunjunSS/raw/main/assets/한성대_출원번호통지서.pdf" download>[출원번호통지서]</a></summary>
 <br>
 <img src="assets/출원번호통지서_사진.jpg" alt="특허 출원번호통지서" width="350"/>
 </details>
