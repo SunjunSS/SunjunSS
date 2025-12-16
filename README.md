@@ -129,11 +129,11 @@
       <p><strong>네트워크 기반 할리갈리 카드 게임</strong></p>
       <p>
         <b>설명:</b><br/>
-        <b>Socket.IO를 활용한 네트워크 통신 기반의</b><br/>
+        <b>Socket.IO</b>를 활용한 <b>네트 통신 기반</b>의<br>
         <b>실시간 할리갈리 카드 게임</b>입니다.<br/>
-        여러 명이 함께 접속하여<br/>
+        <b>여러 명</b>이 함께 접속하여<br/>
         <b>실시간으로 플레이</b>할 수 있는<br/>
-        간단하지만 <b>중독성 있는 게임</b>입니다.
+        간단하지만 중독성 있는 게임입니다.
       </p>
       <a href="https://github.com/SunjunSS/Halli-Galli-Battle">
         <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
