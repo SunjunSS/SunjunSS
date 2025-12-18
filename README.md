@@ -30,7 +30,7 @@
 </details>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&strokeWidth=0&strokeColor=00000000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
 </div>
 
 ## 📝 논문 & 특허
