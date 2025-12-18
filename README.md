@@ -146,7 +146,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunjunSS&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
-</div>
