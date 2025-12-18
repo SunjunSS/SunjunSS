@@ -1,14 +1,7 @@
 <div align="center">
 
-<h1>👋 Hello, I'm SunjunSS!</h1>
-<p>
-  <strong>Welcome to my GitHub profile!</strong><br>
-  꾸준히 성장하고 도전하는 개발자입니다. <br>
-  <br>
-  <a href="https://github.com/SunjunSS">
-    <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%EA%B9%80%EC%84%A0%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F&fontSize=50&animation=fadeIn&fontAlignY=35&desc=%0A%0A%EA%BE%B8%EC%A4%80%ED%9E%88%20%EC%84%B1%EC%9E%A5%ED%95%98%EA%B3%A0%20%EB%8F%84%EC%A0%84%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4&descAlignY=60&descAlign=50" />
+<br>
 
 </div>
 
@@ -37,7 +30,7 @@
 </details>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&strokeWidth=0&strokeColor=00000000" width="100%" />
 </div>
 
 ## 📝 논문 & 특허
