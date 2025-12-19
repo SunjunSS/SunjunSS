@@ -58,21 +58,6 @@
 <table>
   <tr>
     <td width="440" valign="top">
-      <h4>📚 Book4U</a></h4>
-      <p><strong>맞춤형 도서 추천 서비스</strong></p>
-      <p>
-        <b>설명:</b><br/>
-        개인 독서 이력과 선호 데이터를 기반으로<br/>
-        <b>맞춤형 도서 추천</b>을 제공하며,<br/>
-        <b>AI 챗봇</b>을 통한 도서 추천 상담,<br/>
-        <b>베스트셀러 정보</b>와 <b>주변 서점 검색</b>까지 지원하는<br/>
-        통합 도서 추천 서비스입니다.
-      </p>
-      <a href="https://github.com/SunjunSS/SW_Project">
-        <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
-      </a>
-    </td>
-    <td width="440" valign="top">
       <h4>🧠 MindRoad</a></h4>
       <p><strong>음성 회의 기반 자동 마인드맵 시각화 도구</strong></p>
       <p>
@@ -84,6 +69,21 @@
         아이디어 관리가 가능합니다. 
       </p>
       <a href="https://github.com/Funny-nodes/MindRoad">
+        <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
+      </a>
+    </td>
+    <td width="440" valign="top">
+      <h4>📚 Book4U</a></h4>
+      <p><strong>맞춤형 도서 추천 서비스</strong></p>
+      <p>
+        <b>설명:</b><br/>
+        개인 독서 이력과 선호 데이터를 기반으로<br/>
+        <b>맞춤형 도서 추천</b>을 제공하며,<br/>
+        <b>AI 챗봇</b>을 통한 도서 추천 상담,<br/>
+        <b>베스트셀러 정보</b>와 <b>주변 서점 검색</b>까지 지원하는<br/>
+        통합 도서 추천 서비스입니다.
+      </p>
+      <a href="https://github.com/SunjunSS/SW_Project">
         <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
       </a>
     </td>
@@ -103,21 +103,6 @@
 <table>
   <tr>
     <td width="440" valign="top">
-      <h4>🦖 <a href="https://github.com/SunjunSS/Dinosaur-GAME">Dinosaur GAME</a></h4>
-      <p><strong>크롬 공룡 게임 리메이크</strong></p>
-      <p>
-        <b>설명:</b><br/>
-        <b>Chrome 브라우저의 오프라인 공룡 게임</b>을<br/>
-        리메이크한 미니 게임 프로젝트입니다.<br/>
-        키보드로 <b>점프/숙이기</b> 조작을 하며 장애물을 피하고,<br>
-        <b>무적 아이템</b>을 획득해<br/>
-        더 높은 점수에 도전하는 아케이드 스타일 게임입니다.
-      </p>
-      <a href="https://github.com/SunjunSS/Dinosaur-GAME">
-        <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
-      </a>
-    </td>
-    <td width="440" valign="top">
       <h4>🍏 <a href="https://github.com/SunjunSS/Halli-Galli-Battle">Halli Galli Battle</a></h4>
       <p><strong>네트워크 기반 할리갈리 카드 게임</strong></p>
       <p>
@@ -129,6 +114,21 @@
         간단하지만 중독성 있는 게임입니다.
       </p>
       <a href="https://github.com/SunjunSS/Halli-Galli-Battle">
+        <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
+      </a>
+    </td>
+    <td width="440" valign="top">
+      <h4>🦖 <a href="https://github.com/SunjunSS/Dinosaur-GAME">Dinosaur GAME</a></h4>
+      <p><strong>크롬 공룡 게임 리메이크</strong></p>
+      <p>
+        <b>설명:</b><br/>
+        <b>Chrome 브라우저의 오프라인 공룡 게임</b>을<br/>
+        리메이크한 미니 게임 프로젝트입니다.<br/>
+        키보드로 <b>점프/숙이기</b> 조작을 하며 장애물을 피하고,<br>
+        <b>무적 아이템</b>을 획득해<br/>
+        더 높은 점수에 도전하는 아케이드 스타일 게임입니다.
+      </p>
+      <a href="https://github.com/SunjunSS/Dinosaur-GAME">
         <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
       </a>
     </td>
