@@ -9,7 +9,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
 </div>
 
-## 🏆 자격증
+### 🏆 자격증
 
 <details>
 <summary>📜 <b>정보처리기능사</b> (한국산업인력공단) - 2024/04/17</summary>
