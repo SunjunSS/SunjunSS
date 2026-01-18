@@ -67,9 +67,9 @@
 ## 🏆 자격증
 
 <details>
-<summary>📜 <b>정보처리기능사</b> (한국산업인력공단) - 2024/04/17</summary>
+<summary>📜 <b>정보처리기사</b> (한국산업인력공단) - 2025/09/12</summary>
 <br>
-<img src="assets/정보처리기능사 합격 확인서_사진.jpg" alt="정보처리기능사 자격증" width="350"/>
+<img src="assets/정보처리기사 합격 확인서_사진.jpg" alt="정보처리기사 자격증" width="350"/>
 </details>
 
 <details>
@@ -79,9 +79,9 @@
 </details>
 
 <details>
-<summary>📜 <b>정보처리기사</b> (한국산업인력공단) - 2025/09/12</summary>
+<summary>📜 <b>정보처리기능사</b> (한국산업인력공단) - 2024/04/17</summary>
 <br>
-<img src="assets/정보처리기사 합격 확인서_사진.jpg" alt="정보처리기사 자격증" width="350"/>
+<img src="assets/정보처리기능사 합격 확인서_사진.jpg" alt="정보처리기능사 자격증" width="350"/>
 </details>
 
 <div align="center">
