@@ -9,6 +9,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
 </div>
 
+## 💻 알고리즘 & 사용 언어
+
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zinzza122" alt="Solved.ac Profile" height="200"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SunjunSS&layout=compact&hide_border=true&bg_color=30,FF9A56,FF6B9D&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" height="200"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+</div>
+
 ## 🏆 자격증
 
 <details>
@@ -137,12 +147,3 @@
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
-</div>
-
-## 📊 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunjunSS&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
-</div>
