@@ -160,7 +160,7 @@
 <table>
   <tr>
     <td width="350" valign="top">
-      <h4>💬 <a href="https://github.com/SunjunSS/AI_Message">AI_Message</a></h4>
+      <h4>💬 <a href="https://github.com/SunjunSS/AI_Message">AI Message</a></h4>
       <p><strong>AI 기반 메시지 분석 및 관리 도구</strong></p>
       <p>
         <b>설명:</b><br/>
