@@ -165,9 +165,9 @@
       <p>
         <b>설명:</b><br/>
         원하는 톤앤매너의 격식체 이메일로<br/>
-        변환하는 <b>AI 기반 이메일 작성 도우미</b><br/>
-        <b>감정 분석</b>과 5가지 <b>톤앤매너 추천·변환</b>.<br/>
-        <b>실제 이메일 전송 지원</b>.
+        변환하는 <b>AI 기반 이메일 작성 도우미.</b><br/>
+        <b>감정 분석</b>과 5가지 <b>톤앤매너 추천·변환</b>,<br/>
+        <b>실제 이메일 전송을 지원합니다</b>.
       </p>
       <a href="https://github.com/SunjunSS/AI_Message">
         <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
