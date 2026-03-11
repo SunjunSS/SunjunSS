@@ -159,31 +159,43 @@
 
 <table>
   <tr>
-    <td width="440" valign="top">
+    <td width="350" valign="top">
+      <h4>💬 <a href="https://github.com/SunjunSS/AI_Message">AI_Message</a></h4>
+      <p><strong>AI 기반 메시지 분석 및 관리 도구</strong></p>
+      <p>
+        <b>설명:</b><br/>
+        원하는 톤앤매너의 격식체 이메일로<br/>
+        변환하는 <b>AI 기반 이메일 작성 도우미</b>입니다.<br/>
+        <b>감정 분석</b>과 5가지 <b>톤앤매너 추천·변환</b>.<br/>
+        <b>실제 이메일 전송 지원</b>.
+      </p>
+      <a href="https://github.com/SunjunSS/AI_Message">
+        <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
+      </a>
+    </td>
+    <td width="350" valign="top">
       <h4>🍏 <a href="https://github.com/SunjunSS/Halli-Galli-Battle">Halli Galli Battle</a></h4>
       <p><strong>네트워크 기반 할리갈리 카드 게임</strong></p>
       <p>
         <b>설명:</b><br/>
         <b>Socket.IO</b>를 활용한 <b>네트 통신 기반</b>의<br>
-        <b>실시간 할리갈리 카드 게임</b>입니다.<br/>
-        <b>여러 명</b>이 함께 접속하여<br/>
-        <b>실시간으로 플레이</b>할 수 있는<br/>
-        간단하지만 중독성 있는 게임입니다.
+        <b>실시간 할리갈리 카드 게임</b>.<br/>
+        여러 명이 실시간으로 플레이할 수 있는<br/>
+        간단하지만 중독성 있는 웹 게임입니다.
       </p>
       <a href="https://github.com/SunjunSS/Halli-Galli-Battle">
         <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
       </a>
     </td>
-    <td width="440" valign="top">
+    <td width="350" valign="top">
       <h4>🦖 <a href="https://github.com/SunjunSS/Dinosaur-GAME">Dinosaur GAME</a></h4>
       <p><strong>크롬 공룡 게임 리메이크</strong></p>
       <p>
         <b>설명:</b><br/>
-        <b>Chrome 브라우저의 오프라인 공룡 게임</b>을<br/>
-        리메이크한 미니 게임 프로젝트입니다.<br/>
-        키보드로 <b>점프/숙이기</b> 조작을 하며 장애물을 피하고,<br>
-        <b>무적 아이템</b>을 획득해<br/>
-        더 높은 점수에 도전하는 아케이드 스타일 게임입니다.
+        <b>Chrome 오프라인 공룡 게임</b>을 리메이크.<br/>
+        키보드로 점프/숙이기 조작,<br/>
+        장애물 피하기 및 무적 아이템 챌린지.<br/>
+        아케이드 스타일의 미니 게임입니다.
       </p>
       <a href="https://github.com/SunjunSS/Dinosaur-GAME">
         <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
