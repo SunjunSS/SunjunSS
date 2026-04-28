@@ -114,33 +114,48 @@
 
 <div align="center">
 
-<table>
+<table width="1000">
   <tr>
-    <td width="440" valign="top">
-      <h4>🧠 MindRoad</a></h4>
+    <td width="333" valign="top">
+      <h4>🧠 MindRoad</h4>
       <p><strong>음성 회의 기반 자동 마인드맵 시각화 도구</strong></p>
       <p>
         <b>설명:</b><br/>
-        회의 중 참여자의 음성을 <b>실시간으로 텍스트 변환</b>하고,<br/>
-        <b>발언자 구분</b> 및 <b>주제별 키워드 추출</b>을 통해<br/>
-        <b>자동 마인드맵</b>을 생성하는 <b>웹 기반 협업 도구</b>입니다. <br/>
-        회의를 구조화하여 효율적인 의사소통과<br/>
-        아이디어 관리가 가능합니다. 
+        회의 중 참여자의 음성을 <b>실시간으로 텍스트</b><br/>
+        <b>변환</b>하고, <b>발언자 구분</b> 및 <b>주제별 키워드</b><br/>
+        <b>추출</b>을 통해 <b>자동 마인드맵</b>을 생성하는 <b>웹 기반</b><br/>
+        <b>협업 도구</b>입니다. 회의를 구조화하여 효율적인<br/>
+        의사소통과 아이디어 관리가 가능합니다.
       </p>
       <a href="https://github.com/Funny-nodes/MindRoad">
         <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
       </a>
     </td>
-    <td width="440" valign="top">
-      <h4>📚 Book4U</a></h4>
+    <td width="333" valign="top">
+      <h4>💬 <a href="https://github.com/SunjunSS/AI_Message">AI Message</a></h4>
+      <p><strong>AI 기반 메시지 분석 및 관리 도구</strong></p>
+      <p>
+        <b>설명:</b><br/>
+        원하는 톤앤매너의 격식체 이메일로 변환하는<br/>
+        <b>AI 기반 이메일 작성 도우미</b>입니다.<br/>
+        <b>감정 분석</b>과 5가지 <b>톤앤매너 추천·변환</b>,<br/>
+        그리고 <b>실제 이메일 전송</b>까지<br/>
+        지원하는 이메일 서비스입니다.
+      </p>
+      <a href="https://github.com/SunjunSS/AI_Message">
+        <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
+      </a>
+    </td>
+    <td width="333" valign="top">
+      <h4>📚 Book4U</h4>
       <p><strong>맞춤형 도서 추천 서비스</strong></p>
       <p>
         <b>설명:</b><br/>
         개인 독서 이력과 선호 데이터를 기반으로<br/>
         <b>맞춤형 도서 추천</b>을 제공하며,<br/>
         <b>AI 챗봇</b>을 통한 도서 추천 상담,<br/>
-        <b>베스트셀러 정보</b>와 <b>주변 서점 검색</b>까지 지원하는<br/>
-        통합 도서 추천 서비스입니다.
+        <b>베스트셀러 정보</b>와 <b>주변 서점 검색</b>까지<br/>
+        지원하는 통합 도서 추천 서비스입니다.
       </p>
       <a href="https://github.com/SunjunSS/SW_Project">
         <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
@@ -161,20 +176,6 @@
 
 <table>
   <tr>
-    <td width="350" valign="top">
-      <h4>💬 <a href="https://github.com/SunjunSS/AI_Message">AI Message</a></h4>
-      <p><strong>AI 기반 메시지 분석 및 관리 도구</strong></p>
-      <p>
-        <b>설명:</b><br/>
-        원하는 톤앤매너의 격식체 이메일로<br/>
-        변환하는 <b>AI 기반 이메일 작성 도우미.</b><br/>
-        <b>감정 분석</b>과 5가지 <b>톤앤매너 추천·변환</b>,<br/>
-        <b>실제 이메일 전송을 지원합니다</b>.
-      </p>
-      <a href="https://github.com/SunjunSS/AI_Message">
-        <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
-      </a>
-    </td>
     <td width="350" valign="top">
       <h4>🍏 <a href="https://github.com/SunjunSS/Halli-Galli-Battle">Halli Galli Battle</a></h4>
       <p><strong>네트워크 기반 할리갈리 카드 게임</strong></p>
