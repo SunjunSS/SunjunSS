@@ -122,10 +122,10 @@
       <p>
         <b>설명:</b><br/>
         회의 중 참여자의 음성을 <b>실시간으로 텍스트</b><br/>
-        <b>변환</b>하고, <b>발언자 구분</b> 및 <b>주제별 키워드 추출</b><br/>
-        을 통해 <b>자동 마인드맵</b>을 생성하는 <b>웹 기반</b><br/>
-        <b>협업 도구</b>입니다. 회의를 구조화하여 효율적인<br/>
-        의사소통과 아이디어 관리가 가능합니다.
+        <b>변환</b>하고, <b>발언자 구분</b> 및 <b>주제별 키워드</b><br/>
+        <b>추출</b>을 통해 <b>자동 마인드맵</b>을 생성하는<br/>
+        <b>웹 기반 협업 도구</b>입니다. 회의를 구조화하여<br/>
+        효율적인 소통과 아이디어 관리가 가능합니다.
       </p>
       <a href="https://github.com/Funny-nodes/MindRoad">
         <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" />
