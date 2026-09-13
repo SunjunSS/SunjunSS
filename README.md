@@ -138,7 +138,7 @@
       </a>
     </td>
     <td width="333" valign="top">
-      <h4>💬 <a href="https://github.com/SunjunSS/AI_Message">AI Message</a></h4>
+      <h4>💬 AI Message</h4>
       <p><strong>AI 기반 메시지 분석 및 관리 도구</strong></p>
       <p>
         <b>설명:</b><br/>
@@ -183,7 +183,7 @@
 <table>
   <tr>
     <td width="350" valign="top">
-      <h4>🍏 <a href="https://github.com/SunjunSS/Halli-Galli-Battle">Halli Galli Battle</a></h4>
+      <h4>🍏 Halli Galli Battle</h4>
       <p><strong>네트워크 기반 할리갈리 카드 게임</strong></p>
       <p>
         <b>설명:</b><br/>
@@ -197,7 +197,7 @@
       </a>
     </td>
     <td width="350" valign="top">
-      <h4>🦖 <a href="https://github.com/SunjunSS/Dinosaur-GAME">Dinosaur GAME</a></h4>
+      <h4>🦖 Dinosaur GAME</h4>
       <p><strong>크롬 공룡 게임 리메이크</strong></p>
       <p>
         <b>설명:</b><br/>
