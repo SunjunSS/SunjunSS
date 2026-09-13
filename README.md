@@ -77,6 +77,12 @@
 </details>
 
 <details>
+<summary>📜 <b>프롬프트엔지니어 1급</b> (한국정보통신진흥협회) - 2024/10/04</summary>
+<br>
+<img src="assets/프롬프트엔지니어 1급 합격 확인서_사진.png" alt="프롬프트엔지니어 1급 자격증" width="350"/>
+</details>
+
+<details>
 <summary>📜 <b>리눅스마스터 2급</b> (한국정보통신진흥협회) - 2024/10/04</summary>
 <br>
 <img src="assets/리눅스마스터 2급 합격 확인서_사진.jpg" alt="리눅스마스터 2급 자격증" width="350"/>
